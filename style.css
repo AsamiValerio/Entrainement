@@ -7,19 +7,23 @@ body {
   background: url(/Entrainement/i136025-pizza-legere\ \(1\).webp) center/cover no-repeat;
 }
 
+section {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+  height: 70vh;
+}
+
 .green {
   background: green;
-  height: 200px;
 }
 
 .red {
   background: red;
-  height: 200px;
 }
 
 .white {
   background: white;
-  height: 200px;
 }
 
 div {
