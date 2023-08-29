@@ -1,0 +1,17 @@
+body {
+  background: black;
+}
+
+div {
+  border: 2px solid green;
+  text-align: center;
+}
+
+h1 {
+  color: yellow;
+  font-size: 4rem;
+}
+
+h2 {
+  color: white;
+}
