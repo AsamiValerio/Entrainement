@@ -2,12 +2,26 @@ body {
   background: black;
 }
 
+.textContent {
+  border: 2px solid whitesmoke;
+}
+
 .green {
-  border: 2px solid green;
+  background: green;
+  height: 200px;
+}
+
+.red {
+  background: red;
+  height: 200px;
+}
+
+.white {
+  background: white;
+  height: 200px;
 }
 
 div {
-  border: 2px solid red;
   text-align: center;
 }
 
