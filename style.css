@@ -2,8 +2,12 @@ body {
   background: black;
 }
 
-div {
+.green {
   border: 2px solid green;
+}
+
+div {
+  border: 2px solid red;
   text-align: center;
 }
 
